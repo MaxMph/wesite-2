@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: seagreen;
+}
+p {
+  color: white;
+}
+
+a{
+  color: blue;
+}
+
+img{
+  image-rendering: pixelated;
+}
